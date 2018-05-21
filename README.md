@@ -1,3 +1,7 @@
 **Buildings Energy Consumption Forecast**
 
-This repository hosts the machine learning models used for the DataDriven Competition about Buildings Energy Consumption Forecast, launched by Schneider Electric in February 2018.
+This repository hosts the data and machine learning models used for Energy Consumption Analysis & Forecast. The data comes initially from a data science competition hosted by DataDriven& Schneider Electric in February 2018.
+
+The following project is composed as follow:
+- Exploratory Data Analysis
+- Time Series Analysis using ARIMA models (statsmodels package)
