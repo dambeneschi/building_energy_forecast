@@ -5,3 +5,4 @@ This repository hosts the data and machine learning models used for Energy Consu
 The following project is composed as follow:
 - Exploratory Data Analysis
 - Time Series Analysis using ARIMA models (statsmodels package)
+- Time Series Analysis using a Long Short Term Memory Recurrent Network (Keras package)
